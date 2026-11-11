@@ -1,0 +1,7 @@
+[
+  {"id":"wide-window","start_ms":0,"end_ms":29000,"score":15},
+  {"id":"opening-beat","start_ms":0,"end_ms":12000,"score":9},
+  {"id":"closing-beat","start_ms":13000,"end_ms":29000,"score":10},
+  {"id":"alternate","start_ms":8000,"end_ms":22000,"score":12},
+  {"id":"epilogue","start_ms":30500,"end_ms":39000,"score":4}
+]
